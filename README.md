@@ -51,7 +51,15 @@ The dashboard was designed to support data-driven decision-making by transformin
 
 ## Dashboard Preview
 
-*(Dashboard image will be added here.)*
+Page 1 – Executive Overview
+
+<img width="578" height="355" alt="hr-dashboard-page1 png" src="https://github.com/user-attachments/assets/b63c53d7-5cc2-4b40-b90e-f830d0e89e77" />
+
+
+Page 2 – Workforce Analysis
+
+<img width="498" height="279" alt="hr-dashboard-page2" src="https://github.com/user-attachments/assets/75f21e64-ca13-4a84-b21b-e2804c27ab6c" />
+
 
 ---
 

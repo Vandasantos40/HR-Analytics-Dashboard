@@ -65,7 +65,10 @@ Page 2 – Workforce Analysis
 
 ## Dataset
 
-HR Analytics Dataset (Kaggle)
+The dataset used in this project is publicly available on Kaggle.
+Source:
+https://www.kaggle.com/
+
 
 ---
 
